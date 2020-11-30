@@ -46,3 +46,7 @@ a{
 .header{
     background-color: #000000;
 }
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
